@@ -30,4 +30,19 @@ This exercise gives you practice with ES2015-style import/export.
    npm run dev
    ```
 
+## Testing this
+
 4. Open your browser and navigate to `http://localhost:5173/` to view the app.
+
+You should see something like this in your browser console:
+
+```
+I'd like one 🍉, please
+
+Here you go: 🍉
+
+Delicious! May I have another?
+
+I'm sorry, we're all out. We have 14 left.
+
+```
