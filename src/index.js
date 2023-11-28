@@ -16,7 +16,7 @@ const logRandFruit = () => {
   let randFruit2 = choice(fruitArray);
   console.log(`Here you go: ${randFruit2}`);
   console.log(`Delicious! May I have another?`);
-  let remainingFruits = remove(fruitArray, randFruit2);
+  let remainingFruits = remove(fruitArray, randFruit2).length;
   console.log(`I’m sorry, we’re all out. We have  ${remainingFruits} left.`);
 };
 

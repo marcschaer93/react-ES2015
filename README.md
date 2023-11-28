@@ -43,20 +43,6 @@ Here you go: 🍉
 
 Delicious! May I have another?
 
-I'm sorry, we're all out. We have   "🍇",
-  "🍈",
-  "🍉",
-  "🍊",
-  "🍋",
-  "🍌",
-  "🍍",
-  "🍎",
-  "🍏",
-  "🍐",
-  "🍒",
-  "🍓",
-  "🥝",
-  "🍅",
-  "🥑", left.
+I'm sorry, we're all out. We have 14 left.
 
 ```
